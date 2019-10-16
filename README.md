@@ -52,18 +52,21 @@ KEY_UP		digital		16		0
 KEY_DOWN	digital		15		0
 KEY_ENTER	digital		23		0
 KEY_ESC		digital		22		0
-KEY_A		digital		31		0
-KEY_B		digital		11		0
-KEY_C		digital		10		0
-KEY_D		digital		6		0
+KEY_X		digital		31		0
+KEY_Z		digital		11		0
+KEY_S		digital		10		0
+KEY_A		digital		6		0
+KEY_Q		digital		26		0
+KEY_W		digital		27		0
 
 # Analog input
 # <Key code>	<GPIO type>	<ADC port>	<ADC active value>
-KEY_E		analog		0		0
-KEY_F		analog		0		2045
-KEY_G		analog		1		0
-KEY_H		analog		1		2045
+KEY_I		analog		0		0
+KEY_K		analog		0		2045
+KEY_J		analog		1		0
+KEY_L		analog		1		2045
 ```
+
 
 #### Donation
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6M2HACXAUCBEW)
