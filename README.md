@@ -1,3 +1,12 @@
+※ Fixes
+makefile modify
+
+LIBS = -lwiringPi -lpthread
+=>
+LIBS = -lwiringPi -lpthread -lm -lrt -lcrypt
+
+
+
 gpio_keyd
 ========
 
