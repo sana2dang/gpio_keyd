@@ -66,7 +66,3 @@ KEY_K		analog		0		2045
 KEY_J		analog		1		0
 KEY_L		analog		1		2045
 ```
-
-
-#### Donation
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6M2HACXAUCBEW)
